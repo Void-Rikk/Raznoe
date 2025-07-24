@@ -38,3 +38,4 @@ src/Wordly
 src/TestComponent.jsx
 src/db.json
 src/WasInAppComments
+package-lock.json
